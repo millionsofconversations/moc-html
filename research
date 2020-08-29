@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Millions of Conversations" />
+
+	<!-- Stylesheets
+	============================================= -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<!-- Document Title
+	============================================= -->
+	<title>Team | Millions of Conversations</title>
+
+</head>
+
+<body class="stretched">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="full-header">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix">
+
+					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+					<!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="index.html" class="standard-logo" data-dark-logo="demos/articles/images/logo.png"><img src="demos/articles/images/logo.png" alt="Canvas Logo"></a>
+						<a href="index.html" class="retina-logo" data-dark-logo="demos/articles/images/logo@2x.png"><img src="demos/articles/images/logo@2x.png" alt="Canvas Logo"></a>
+					</div><!-- #logo end -->
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu">
+<ul>
+								<li><a href="index.html" class="ls0"><div>Home</div></a></li>
+							
+							<li><a href="team.html" class="ls0"><div>Team</div></a></li>
+							<li><a href="media.html" class="ls0"><div>Media</div></a></li>
+							<li><a href="gallery.html" class="ls0"><div>Gallery</div></a></li>
+							<li><a href="events.html" class="ls0"><div>Events</div></a></li>
+              <li><a href="research.html" class="ls0"><div>Research</div></a></li>
+							
+							
+							
+						</ul>
+
+					</nav><!-- #primary-menu end -->
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+		
+
+		<!-- Content
+		============================================= -->
+		<section id="content">
+
+			<div class="content-wrap">
+
+				<div class="container clearfix">
+
+					<div>
+
+						<h1>Our Research</h1>
+								
+					</div>
+
+					<div id="posts" class="events small-thumbs">
+
+						<div class="entry clearfix">
+							
+							<div class="entry-c">
+								<div class="entry-title">
+									<h3>Just Like Us</h3>
+                  <h4>Highlighted Findings</h4>
+								</div>
+								
+								<div class="entry-content">
+									<p>Millions of Conversations (Millions) is a campaign to transcend divides and bring Americans together through shared common values. Founded in 2017, the organization seeks to support a thriving, inclusive democracy by humanizing people around narratives that counter toxic rhetoric. 
+									 <br><br>
+									Today, a fear of an unknown “other” has been framed as a threat to the American way of life. This fear silences our values of respect, religious liberties, and free speech. We ask ourselves:  How can we change this status quo? How can we reverse the tide of fear, hate, violence and exclusion? 
+									<br><br>
+									In 2018, Millions of Conversations partnered with M&C Saatchi World Services to conduct  qualitative and quantitative research about the most effective ways to do reverse these polarizing trends  with a particular focus on why a majority of Americans hold anti-Muslim bias. The study, “Just Like Us,” draws on evidence from focus groups in five states – California, Texas, Florida, Mississippi, and Ohio. This research  identified six of the dominant anti-Muslim narratives in today’s culture and a recurring theme is a belief that Muslims are “different from us” and “trying to destroy our way of life.” Structural anti-Muslim bias - found in our legal, cultural, and political institutions - reinforce these dangerous messages. Popular culture also conveys anti-Muslim messaging. To challenge these negative stereotypes, we traveled the country, conducting focus groups in which we asked  participants to describe their American values and their vision of the Model American Citizen.
+									<br><br>
+									Identifying shared American Values was a key finding of "Just Like Us."
+								</div>
+							</div>
+						</div>
+
+			</div>
+
+		</section><!-- #content end -->
+
+		<!-- Footer
+		============================================= -->
+		<footer id="footer" class="noborder">
+
+			<div class="container clearfix">
+
+			
+
+			</div>
+
+			<div class="line nomargin"></div>
+
+				<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
+
+				<div class="container clearfix">
+
+					<div class="row align-items-center">
+						<div class="col-sm-6">
+							Copyrights &copy; 2019 All Rights Reserved by Millions of Conversations <br>PO Box 128436 Nashville TN 37212-9998
+						</div>
+
+						<div class="col-sm-6 mt-4 mt-sm-0">
+							<div class="float-none float-sm-right clearfix">
+								<a href="https://www.facebook.com/amillionconvos/" class="social-icon si-small si-borderless si-facebook">
+									<i class="icon-facebook"></i>
+									<i class="icon-facebook"></i>
+								</a>
+
+								<a href="https://twitter.com/AMillionConvos" class="social-icon si-small si-borderless si-twitter">
+									<i class="icon-twitter"></i>
+									<i class="icon-twitter"></i>
+								</a>
+
+								<a href="https://www.instagram.com/amillionconvos/" class="social-icon si-small si-borderless si-pinterest">
+									<i class="icon-instagram"></i>
+									<i class="icon-instagram"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</div><!-- #copyrights end -->
+
+		</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+
+	<!-- External JavaScripts
+	============================================= -->
+	<script src="js/jquery.js"></script>
+	<script src="js/plugins.js"></script>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script src="js/functions.js"></script>
+
+</body>
+</html>
