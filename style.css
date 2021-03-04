@@ -408,9 +408,9 @@ span.middot {
 .bgcolor,
 .bgcolor #header-wrap { background-color: #ea332f !important; }
 
-.color { color: #ea332f !important; }
+.color { color: #6852A1 !important; }
 
-.border-color { border-color: #ea332f !important; }
+.border-color { border-color: #6852A1 !important; }
 
 .nobg { background: none !important; }
 
@@ -823,7 +823,7 @@ html[xmlns] .slider-wrap {display: block;}
 	left: 0;
 	width: 140px;
 	margin: 0;
-	border-top: 1px solid #ea332f;
+	border-top: 1px solid #6852A1;
 	border-bottom: 1px solid #EEE;
 	box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
 	-moz-box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
